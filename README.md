@@ -1,7 +1,20 @@
-Hi there, my name is Thiago, better known by my surname **Sasaki**! 😄
+<p align="center">
+Hi there, my name is Thiago, better known by my surname <b>Sasaki</b>! 😄
+<br><br>I am a Computer Engineer, currently working as .NET back-end developer in Brazil.
+</p>
 
-I am a Computer Engineer, currently working as .NET back-end developer in Brazil.
+<h2>
+  <p align="center">🔗 Connect with me</p>
+</h2>
 
-### 🔗 Connect with me
+<p align="center">
+    <a href="https://www.linkedin.com/in/t-sasaki"><img src="https://github.com/thiagosasaki/sasaki/assets/54920038/d9afb901-8b56-4539-bce3-ea8d85a51ea0" style="width:150px;height:30px;"></a>
+    <a href="https://thiagosasaki.github.io"><img src="https://github.com/thiagosasaki/sasaki/assets/54920038/fe7f5233-937c-4c77-8c80-6b5687318087" style="width:150px;height:30px;"></a>
+</p>
 
-[![LinkedIn](https://github.com/thiagosasaki/sasaki/assets/54920038/2174ec80-27fc-454f-9103-aa3c62c58627)](https://www.linkedin.com/in/t-sasaki/)
+<br>
+
+<p align="center">
+    <img src="https://github.com/thiagosasaki/sasaki/assets/54920038/35d57147-f1a7-4c8d-8663-372d78b5881b" style="width:200px;height:181px;">
+    <br>How programming feels like
+</p>
