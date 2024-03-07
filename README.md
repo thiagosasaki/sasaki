@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/t-sasaki"><img src="https://github.com/thiagosasaki/sasaki/assets/54920038/d9afb901-8b56-4539-bce3-ea8d85a51ea0" style="width:150px;height:30px;"></a>
-    <a href="https://thiagosasaki.github.io"><img src="https://github.com/thiagosasaki/sasaki/assets/54920038/fe7f5233-937c-4c77-8c80-6b5687318087" style="width:150px;height:30px;"></a>
+    <a href="https://thiagosasaki.github.io"><img src="https://github.com/thiagosasaki/thiagosasaki/assets/54920038/c081c1b2-0679-416a-b21a-24d804439a01" style="width:150px;height:30px;"></a>
 </p>
 
 <br>
